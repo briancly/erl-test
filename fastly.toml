@@ -6,7 +6,7 @@ description = "A basic starter kit that demonstrates routing, simple synthetic r
 language = "javascript"
 manifest_version = 3
 name = "Default starter for JavaScript"
-service_id = "LhgBd9b6WYh6fsy9EojeW4"
+service_id = "b5MyYostuwcAIpIjFbXwh6"
 
 [scripts]
 build = "npm run build"
